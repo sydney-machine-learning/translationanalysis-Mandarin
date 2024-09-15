@@ -20,7 +20,7 @@ humour, hopelessness and irony. It consists of nine chapters and was firstly pub
 
 **Semantic analysis file(from julyter_notebook folder)**: [Semantic analysis](https://github.com/sydney-machine-learning/translationanalysis-Mandarin/blob/main/jupyter_notebook/semantic_analysis.ipynb).
 
-## Outcomes of visualization
+## Outcomes of Visualization
 Here are some visualized results derived from our sentiment and semantic analysis:
 
 [plots_for_sentiment_analysis](https://github.com/sydney-machine-learning/translationanalysis-Mandarin/tree/main/plots_for_sentiment_analysis) folder
