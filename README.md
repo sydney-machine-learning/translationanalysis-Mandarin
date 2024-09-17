@@ -12,6 +12,13 @@ humour, hopelessness and irony. It consists of nine chapters and was firstly pub
 
 **MPNet model**: Wee employ the MPNet-based sentence embedding model to quantitatively observe the similarities between the three translations.
 
+## Framework diagram
+
+The diagram features sentiment and semantic analysis by comparing the Google Translate version with the translations from Mandarin to English of two expert translations.
+
+![framework-r](https://github.com/user-attachments/assets/cd250f77-b585-4f8d-86b2-71c9caa39773)
+
+
 ## Notebook Links
 
 **Data prepricessing file(from jupyter_notebook folder)**: [Data prepricessing](https://github.com/sydney-machine-learning/translationanalysis-Mandarin/blob/main/jupyter_notebook/data_pre_processing_new.ipynb).
@@ -20,7 +27,7 @@ humour, hopelessness and irony. It consists of nine chapters and was firstly pub
 
 **Semantic analysis file(from julyter_notebook folder)**: [Semantic analysis](https://github.com/sydney-machine-learning/translationanalysis-Mandarin/blob/main/jupyter_notebook/semantic_analysis.ipynb).
 
-## Outcomes of Visualization
+## Results
 Here are some visualized results derived from our sentiment and semantic analysis:
 
 [plots_for_sentiment_analysis](https://github.com/sydney-machine-learning/translationanalysis-Mandarin/tree/main/plots_for_sentiment_analysis) folder
